@@ -1,20 +1,16 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit } from '@angular/core'
 
 @Component({
   selector: 'lib-one',
   template: `
     <p>
-      one works!
+      change in main repo project one
     </p>
   `,
-  styles: [
-  ]
+  styles: []
 })
 export class OneComponent implements OnInit {
+  constructor () {}
 
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
+  ngOnInit (): void {}
 }
