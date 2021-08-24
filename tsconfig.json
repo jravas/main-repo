@@ -17,6 +17,10 @@
       "one": [
         "dist/one/one",
         "dist/one"
+      ],
+      "two": [
+        "dist/two/two",
+        "dist/two"
       ]
     },
     "importHelpers": true,
