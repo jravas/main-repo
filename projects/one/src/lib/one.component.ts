@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core'
   selector: 'lib-one',
   template: `
     <p>
-      change in main repo project one
+      another change in main repo project one
     </p>
   `,
   styles: []
